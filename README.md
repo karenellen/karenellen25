@@ -1,5 +1,5 @@
 ### Oi,  sou a  Kel  👾
-- 💻 Estudo  banco de dados, java, c, logica de programação
+- 💻 Estudo  banco de dados, html, css, bootstrap, java, c, logica de programação
 - 🎓 Estudante de análise e desenvolvimento de sistemas
 - 😃 Pronomes: dela/ela
 - 🚀 Em busca de estagio 
