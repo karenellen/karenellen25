@@ -1,4 +1,4 @@
-### Oi,  sou a  karenellen25  👾
+### Oi,  sou a  Kel  👾
 - 💻 Estudo  banco de dados, java, c, logica de programação
 - 🎓 Estudante de análise e desenvolvimento de sistemas
 - 😃 Pronomes: dela/ela
